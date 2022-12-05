@@ -18,12 +18,12 @@ public class Variables2 {
             long q = 4;
             float t = 1.1F;
             double u = 1.11;
-            System.out.println("Значение переменной" + " " + "w" + " " + "с типом byte равно" + " " + 3);
-            System.out.println("Значение переменной" + " " + "y" + " " + "с типом short равно" + " " + 2);
-            System.out.println("Значение переменной" + " " + "x" + " " + "с типом int равно" + " " + 1);
-            System.out.println("Значение переменной" + " " + "q" + " " + "с типом long равно" + " " + 4);
-            System.out.println("Значение переменной" + " " + "t" + " " + "с типом float равно" + " " + 1.1);
-            System.out.println("Значение переменной" + " " + "u" + " " + "с типом double равно" + " " + 1.11);
+            System.out.println("Значение переменной" + " " + w + " " + "с типом byte равно" + " " + 3);
+            System.out.println("Значение переменной" + " " + y + " " + "с типом short равно" + " " + 2);
+            System.out.println("Значение переменной" + " " + x + " " + "с типом int равно" + " " + 1);
+            System.out.println("Значение переменной" + " " + q + " " + "с типом long равно" + " " + 4);
+            System.out.println("Значение переменной" + " " + t + " " + "с типом float равно" + " " + 1.1);
+            System.out.println("Значение переменной" + " " + u + " " + "с типом double равно" + " " + 1.11);
         }
         public static void task2 () {
             float x = 27.12F;
